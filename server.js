@@ -41,7 +41,7 @@ app.get('/', (req, res) => {
             <br>
             <p>
                 Get EXPENSE_CONTROLLER_TOOL: 
-            <a href="https://github.com/RonakPatel2468/EXPENSE_CONTROLLER_TOOL.git" target="_blank">Repository:EXPENSE_CONTROLLER </a>
+            <a href="https://github.com/RoshniPadaliya/Expense_Tracker.git" target="_blank">Repository:EXPENSE_CONTROLLER </a>
             </p>
         </center>
     `);
